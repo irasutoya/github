@@ -17,4 +17,4 @@
 
 🤩 赞助名单 | 💰 赞助金额
 -- | --
-[8Mi-Tech](https://github.tax/8Mi-Tech) | 11.45 CNY
+[8Mi-Tech](https://github.ie.cx/8Mi-Tech) | 11.45 CNY
