@@ -1,6 +1,6 @@
 **Speed Github**
 
-一个为国人免费加速 Github 的项目
+一个免费加速 Github 的项目
 
 您可以将 `github.com` 域名的 `.com` 更改成 `.ie.cx` 即可进行加速
 
